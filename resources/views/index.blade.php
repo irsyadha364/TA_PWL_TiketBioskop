@@ -38,7 +38,7 @@
                             <img class="img-fluid" src="assets/images/team-member-1.jpg" alt="alternative">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Lacy Whitelong</h5>
+                            <h5 class="card-title">Irsyadha Alfyrdhousi R </h5>
                             <p class="card-text">Business Developer</p>
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -62,7 +62,7 @@
                             <img class="img-fluid" src="assets/images/team-member-2.jpg" alt="alternative">
                         </div>
                         <div class="card-body">
-                            <h5 class="card-title">Sheila Zimern</h5>
+                            <h5 class="card-title">Fadhil Ahmad Yazid</h5>
                             <p class="card-text">Software Engineer</p>
                             <span class="fa-stack">
                                 <a href="#your-link">
@@ -131,7 +131,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-col first">
-                        <h6>About Elma</h6>
+                        <h6>About Irsyad & Fadhil</h6>
                         <p class="p-small">He oppose at thrown desire of no. Announcing impression unaffected day his are unreserved indulgence. Him hard find read are you</p>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col second">
@@ -167,7 +167,7 @@
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
-                        <p class="p-small">We would love to hear from you <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
+                        <p class="p-small">We would love to hear from you <a href="IrsyadhaFadhil@gmail.com"><strong>contact@site.com</strong></a></p>
                     </div> <!-- end of footer-col -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -181,11 +181,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a href="#your-link">Your name</a></p>
+                    <p class="p-small">Copyright © <a href="#your-link">Irsyad & Fadhil </a></p>
                 </div> 
                 
                 <div class="col-lg-12">
-                    <p class="p-small">Distributed by :<a href="https://themewagon.com/">Themewagon</a></p>
+                    <p class="p-small">Distributed by :<a href="https://IrFadh.com/">IrFadh</a></p>
                 </div> <<!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
