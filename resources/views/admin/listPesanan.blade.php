@@ -19,8 +19,8 @@
             @foreach($booking as $book)
 			<tr>
                 <td>{{ $book->user->name}}</td>
-                <td>{{ $book->movie->judul_film}}</td>
-                <td>{{ $book->jumlah_kursi}}</td>
+                <td>{{ $book->movie->nama_film}}</td>
+                <td>{{ $book->jumlah_tiket}}</td>
                 <td>{{ $book->tanggal}}</td>
                 <td>{{ $book->jam}}</td>
                 <td>{{ $book->total_harga}}</td>
